@@ -1,7 +1,7 @@
 # HabitFlow — трекер привычек
 
 
-🔗 **Живой деплой:** https://ВАШ-САЙТ.netlify.app
+🔗 **Живой деплой:** [https://habitflowk.netlify.app/ ]
 
 Полнофункциональное веб-приложение для отслеживания привычек:
 **React + TypeScript + Vite** на фронтенде и **Supabase**
